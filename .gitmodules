@@ -1,0 +1,3 @@
+[submodule "thirdpart/opencv"]
+	path = thirdpart/opencv
+	url = https://gitee.com/mirrors/opencv.git
