@@ -19,7 +19,4 @@ message(${SOURCES})
 
 add_executable(${EXE_NAME} ${SOURCES} src/main.cpp)
 
-link_directories(
-        ${OpenCV_LIB_DIR}
-        ${OpenCV_LIBS}
-)
+target_link_libraries(${EXE_NAME} ${OpenCV_LIBS})
