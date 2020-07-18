@@ -1,0 +1,14 @@
+//
+// Created by 李陆沁 on 2020/7/18.
+//
+
+#ifndef FATIGUEDETECTIONSYSTEM_GET_FRAME_H
+#define FATIGUEDETECTIONSYSTEM_GET_FRAME_H
+
+
+class get_frame {
+
+};
+
+
+#endif //FATIGUEDETECTIONSYSTEM_GET_FRAME_H
